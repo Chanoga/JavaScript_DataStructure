@@ -1,6 +1,26 @@
 /**
- * Implementation of Singly Linked List
- * in JavaScript
+*Linked List Module:
+*This module contains the functionality of
+*-->Singly Linked List
+*-->Double Linked list
+*-->Circular Singly Linked List
+*-->Circular Double Linked List
+*
+*
+*Functionality:
+*-->Insert node at the beginning of list
+*-->Insert node at the end of list
+*-->Insert node before a given node
+*-->Insert node after a given node
+*-->return list size
+*-->Find node in the list
+*-->delete a given node
+*-->delete entire list
+*-->Sorting the list in ascending order
+*-->Sorting list in descending order
+*-->Find smallest node in the list
+*-->Find largest node in the list
+
  */
 
 class Node
