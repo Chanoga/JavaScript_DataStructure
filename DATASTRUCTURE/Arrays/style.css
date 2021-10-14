@@ -1,0 +1,59 @@
+.header-div
+{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    color: lightgray;
+}
+
+.form
+{
+    background-color:aqua;
+    padding: 1em;
+    margin-top: 1em;
+    margin-left: 20em;
+    margin-right: 20em;
+    width: 600px;
+}
+
+.elements-div
+{
+    display: none;
+    background-color: beige;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.nodes-div
+{
+    display: flex;
+    margin-top: 1em;
+    background-color: bisque;
+}
+
+#sort-asc,#sort-desc
+{
+    background-color: rgb(96, 96, 190);
+    color: white;
+    border: 1px solid yellow;
+    border-radius: .5em;
+}
+#sort-asc:hover,#sort-desc:hover
+{
+    background-color: aqua;
+}
+/*
+the div class created by the JS 
+ */
+ .div
+ {
+     margin: .1em;
+     background-color: green;
+     color: black;
+     text-align: center;
+     width: 50px;
+     height: 25px;
+ }
